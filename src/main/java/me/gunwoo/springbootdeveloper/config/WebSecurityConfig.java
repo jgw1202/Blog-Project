@@ -1,5 +1,6 @@
-package me.gunwoo.springbootdeveloper.config;
+// package me.gunwoo.springbootdeveloper.config;
 
+/*
 import lombok.RequiredArgsConstructor;
 
 import me.gunwoo.springbootdeveloper.service.UserDetailService;
@@ -60,3 +61,4 @@ public class WebSecurityConfig {
         return new BCryptPasswordEncoder();
     }
 }
+*/
